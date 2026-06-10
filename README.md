@@ -65,3 +65,4 @@ PDF input → DNPA (normalisation) → FEA (14-category JSON) → CRAA (complian
 
 *Silesia, Poland · Open to AI roles: remote, Kraków, Warsaw*  
 📧 kinga.klosek@gmail.com
+
