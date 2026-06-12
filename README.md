@@ -22,8 +22,7 @@ PDF input → DNPA (normalisation) → FEA (14-category JSON) → CRAA (complian
 ```
 
 **Stack:** Python · Google Gemini API · ipywidgets · FPDF · inter-agent JSON contracts  
-**Live:** [View in Google Colab](https://colab.research.google.com/drive/1q8c1EPH_uRCiGtnpUp2pq_kkeiVtd-7h#scrollTo=r7tPtZkbXqXY) · [Full technical documentation](https://kinrap.github.io/AI_Portfolio/projects/3dsmart.html)
-
+**Code:** [github.com/KinRap/3DSmart](https://github.com/KinRap/3DSmart) · **Live:** [View in Google Colab](https://colab.research.google.com/drive/1q8c1EPH_uRCiGtnpUp2pq_kkeiVtd-7h) · **Docs:** [Technical documentation](https://github.com/KinRap/3DSmart/blob/main/docs/3DSmart_System_Agentowy_POC_v1.pdf) · [Case study](https://kinrap.github.io/AI_Portfolio/projects/3dsmart.html)
 ---
 
 ## 🛠️ Skills
