@@ -4,9 +4,6 @@
 
 Multi-agent architectures · Prompt engineering · LLM evaluation · Python · PhD
 
-| 5-agent AI pipeline for tender analysis — Python, Gemini API, JSON contracts |
-
-[3DSmart](https://github.com/KinRap/3DSmart) 
 [![AI Portfolio](https://img.shields.io/badge/AI_Portfolio-kinrap.github.io-7c6af7?style=flat-square&logo=github)](https://kinrap.github.io/AI_Portfolio/)
 [![TW Portfolio](https://img.shields.io/badge/TW_Portfolio-kinrap.github.io-4fc3f7?style=flat-square&logo=github)](https://kinrap.github.io/TW_Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kinga_Rapacka-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kinga-rapacka-29315a2a3)
@@ -45,6 +42,7 @@ PDF input → DNPA (normalisation) → FEA (14-category JSON) → CRAA (complian
 
 | Repo | What it is |
 |------|-----------|
+| [3DSmart](https://github.com/KinRap/3DSmart) | 5-agent AI pipeline for tender analysis — Python, Gemini API, JSON contracts |
 | [AI_Portfolio](https://kinrap.github.io/AI_Portfolio/) | AI projects portfolio — 3DSmart case study, LLM evaluation work |
 | [TW_Portfolio](https://kinrap.github.io/TW_Portfolio/) | Technical writing portfolio — DITA, MadCap Flare, Prompt Design, Simplified English |
 | [GenerativeAIForTechWriters](https://kinrap.github.io/GenerativeAIForTechWriters/) | Research: GenAI applied to documentation workflows |
