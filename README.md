@@ -1,7 +1,9 @@
 # Kinga Rapacka · AI Solutions Specialist
 
-**I build AI systems that solve real business problems.**  
+**I build AI systems that solve real business problems.**
+
 Multi-agent architectures · Prompt engineering · LLM evaluation · Python · PhD
+
 | [3DSmart](https://github.com/KinRap/3DSmart) | 5-agent AI pipeline for tender analysis — Python, Gemini API, JSON contracts |
 [![AI Portfolio](https://img.shields.io/badge/AI_Portfolio-kinrap.github.io-7c6af7?style=flat-square&logo=github)](https://kinrap.github.io/AI_Portfolio/)
 [![TW Portfolio](https://img.shields.io/badge/TW_Portfolio-kinrap.github.io-4fc3f7?style=flat-square&logo=github)](https://kinrap.github.io/TW_Portfolio/)
