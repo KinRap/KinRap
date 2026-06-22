@@ -42,12 +42,12 @@ PDF input → DNPA (normalisation) → FEA (14-category JSON) → CRAA (complian
 
 | Repo | What it is |
 |------|-----------|
-| [3DSmart](https://github.com/KinRap/3DSmart) | 5-agent AI pipeline for tender analysis — Python, Gemini API, JSON contracts |
-| [AI_Portfolio](https://kinrap.github.io/AI_Portfolio/) | AI projects portfolio — 3DSmart case study, LLM evaluation work |
-| [TW_Portfolio](https://kinrap.github.io/TW_Portfolio/) | Technical writing portfolio — DITA, MadCap Flare, Prompt Design, Simplified English |
+| [3DSmart](https://github.com/KinRap/3DSmart) | 5-agent AI pipeline for tender analysis - Python, Gemini API, JSON contracts |
+| [AI_Portfolio](https://kinrap.github.io/AI_Portfolio/) | AI projects portfolio - 3DSmart case study, LLM evaluation work |
+| [TW_Portfolio](https://kinrap.github.io/TW_Portfolio/) | Technical writing portfolio - DITA, MadCap Flare, Prompt Design, Simplified English |
 | [GenerativeAIForTechWriters](https://kinrap.github.io/GenerativeAIForTechWriters/) | Research: GenAI applied to documentation workflows |
 | [MadCapFL](https://kinrap.github.io/MadCapFL/Content/Home.htm) | MadCap Flare single-source publishing project |
-| [UNSME](https://kinrap.github.io/UNSME/) | "Happily Ever After with Unresponsive SMEs" — TW process article |
+| [UNSME](https://kinrap.github.io/UNSME/) | "Happily Ever After with Unresponsive SMEs" - TW process article |
 | [simplified-english](https://kinrap.github.io/simplified-english/) | ASD-STE100 Simplified Technical English rewrite |
 
 ---
