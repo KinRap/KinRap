@@ -10,9 +10,27 @@ Multi-agent architectures · Prompt engineering · LLM evaluation · Python · P
 
 ---
 
+## 🤖 Featured project - TaskFlow Agentic Analytics
+
+A **6-agent LLM pipeline** that answers "why is MRR growth slowing?" for a SaaS business.
+What sets it apart is the measurement: a **deterministic SQL audit layer benchmarks each agent's accuracy** on recall and precision, instead of judging the system by impression.
+
+```
+Question → DQA (data quality) → ANA (decomposition) → SQG (SQL, sole author)
+                                                      → VAL (validator, repair loop)
+                                                               ↓
+                                        INT (interpretation) → ADV (diagnosis + confidence)
+```
+
+**Measured:** DQA recall 0.64 to 0.86, precision 0.82 to 1.00 · validation loop and self join confirmed end to end
+**Stack:** Python · Google Gemini API · SQLite · deterministic audit harness
+**Code:** [github.com/KinRap/taskflow-analytics-poc](https://github.com/KinRap/taskflow-analytics-poc) · **Case study:** [Read it here](https://kinrap.github.io/AI_Portfolio/projects/taskflow.html)
+
+---
+
 ## 🤖 Featured project - 3DSmart AI Orchestrator
 
-A **5-agent orchestration system** for automated tender analysis in the renewable energy sector.  
+A **5-agent orchestration system** for automated tender analysis in the renewable energy sector.
 Processes procurement PDFs end-to-end and delivers a **GO / NO-GO executive report in under 6 minutes.**
 
 ```
@@ -22,8 +40,9 @@ PDF input → DNPA (normalisation) → FEA (14-category JSON) → CRAA (complian
                                                            SOA (Executive Insight Report)
 ```
 
-**Stack:** Python · Google Gemini API · ipywidgets · FPDF · inter-agent JSON contracts  
-**Code:** [github.com/KinRap/3DSmart](https://github.com/KinRap/3DSmart) · **Live:** [View in Google Colab](https://colab.research.google.com/drive/1q8c1EPH_uRCiGtnpUp2pq_kkeiVtd-7h) · **Docs:** [Technical documentation](https://github.com/KinRap/3DSmart/blob/main/docs/3DSmart_System_Agentowy_POC_v1.pdf) · [Case study](https://kinrap.github.io/AI_Portfolio/projects/3dsmart.html)
+**Stack:** Python · Google Gemini API · ipywidgets · FPDF · inter-agent JSON contracts
+**Live:** [View in Google Colab](https://colab.research.google.com/drive/1q8c1EPH_uRCiGtnpUp2pq_kkeiVtd-7h) · **Case study:** [Read it here](https://kinrap.github.io/AI_Portfolio/projects/3dsmart.html)
+
 ---
 
 ## 🛠️ Skills
@@ -42,8 +61,9 @@ PDF input → DNPA (normalisation) → FEA (14-category JSON) → CRAA (complian
 
 | Repo | What it is |
 |------|-----------|
+| [taskflow-analytics-poc](https://github.com/KinRap/taskflow-analytics-poc) | 6-agent SaaS analytics pipeline with a measured evaluation harness - Python, Gemini, SQLite |
 | [3DSmart](https://github.com/KinRap/3DSmart) | 5-agent AI pipeline for tender analysis - Python, Gemini API, JSON contracts |
-| [AI_Portfolio](https://kinrap.github.io/AI_Portfolio/) | AI projects portfolio - 3DSmart case study, LLM evaluation work |
+| [AI_Portfolio](https://kinrap.github.io/AI_Portfolio/) | AI projects portfolio - case studies and LLM evaluation work |
 | [TW_Portfolio](https://kinrap.github.io/TW_Portfolio/) | Technical writing portfolio - DITA, MadCap Flare, Prompt Design, Simplified English |
 | [GenerativeAIForTechWriters](https://kinrap.github.io/GenerativeAIForTechWriters/) | Research: GenAI applied to documentation workflows |
 | [MadCapFL](https://kinrap.github.io/MadCapFL/Content/Home.htm) | MadCap Flare single-source publishing project |
@@ -54,10 +74,10 @@ PDF input → DNPA (normalisation) → FEA (14-category JSON) → CRAA (complian
 
 ## 🎓 Education & credentials
 
-- **Postgraduate — Mathematics & Computer Science** · WSKZ · 2025–2026
-- **PhD — Biblical Studies** · UKSW Warsaw · 2010–2015 *(research methodology, corpus analysis)*
+- **Postgraduate - Mathematics & Computer Science** · WSKZ · 2025-2026
+- **PhD - Biblical Studies** · UKSW Warsaw · 2010-2015 *(research methodology, corpus analysis)*
 - **AI Skills 4 Women** (105h) · Founderz × Microsoft · 2026
-- **AIDEAS — AI & ML** (50h) · Generator Pomysłów × Politechnika Wrocławska (EIT Deep Tech) · 2026
+- **AIDEAS - AI & ML** (50h) · Generator Pomysłów × Politechnika Wrocławska (EIT Deep Tech) · 2026
 - **Generative AI** · Santander / MIT Professional Education · 2024
 - **Google AI Essentials** · Coursera · 2024
 - **Using AI in Business Development** (×2 editions) · Google × SGH Warsaw · 2025
@@ -66,4 +86,3 @@ PDF input → DNPA (normalisation) → FEA (14-category JSON) → CRAA (complian
 
 *Silesia, Poland · Open to AI roles: remote, Kraków, Warsaw*  
 📧 kinga.klosek@gmail.com
-
