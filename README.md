@@ -10,7 +10,7 @@ Multi-agent architectures · Prompt engineering · LLM evaluation · Python · P
 
 ---
 
-## 🤖 Featured project — 3DSmart AI Orchestrator
+## 🤖 Featured project - 3DSmart AI Orchestrator
 
 A **5-agent orchestration system** for automated tender analysis in the renewable energy sector.  
 Processes procurement PDFs end-to-end and delivers a **GO / NO-GO executive report in under 6 minutes.**
